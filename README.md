@@ -1,7 +1,7 @@
 # Derik-Felix
 Hello, there!
 
-My name is Derik, and i'm a front-end developer from Belo Horizonte, Minas Gerais. I love technology, and i'm always in search of new challenges and trying to
+My name is Derik, and i'm a web developer student from Belo Horizonte, Minas Gerais. I love technology, and i'm always in search of new challenges.
 
 
 # Tech Stack
