@@ -1,5 +1,4 @@
-# Derik-Felix
-Hello, there!
+# Hello, there!
 
 My name is Derik, and i'm a web developer student from Belo Horizonte, Minas Gerais. 
 
