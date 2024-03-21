@@ -5,6 +5,8 @@ My name is Derik, and i'm a web developer student from Belo Horizonte, Minas Ger
 I love technology, and i'm always in search of new challenges.
 
 
+
+
 # Tech Stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-232323?style=flat&labelColor=E34F26&logo=html5&logoColor=ffffff) 
