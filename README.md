@@ -1,7 +1,8 @@
 # Derik-Felix
 Hello, there!
 
-My name is Derik, and i'm a web developer student from Belo Horizonte, Minas Gerais. I love technology, and i'm always in search of new challenges.
+My name is Derik, and i'm a web developer student from Belo Horizonte, Minas Gerais. 
+I love technology, and i'm always in search of new challenges.
 
 
 # Tech Stack
